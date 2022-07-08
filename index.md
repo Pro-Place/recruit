@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## プロダクトプレースメント[^1] の機会損失を解決する
 
-You can use the [editor on GitHub](https://github.com/Pro-Place/recruit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+Pro Place は、研究開発に重視しています。
+現在起業準備中です。事業を軌道に乗せるため、Pro Place では熱量を持ったメンバーを募集しています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Positions
+- 機械学習エンジニア (アシスタント)
+  - 自然言語処理
+    - 職務内容
 
-### Markdown
+      ■ ミッション
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます。
 
-```markdown
-Syntax highlighted code block
+      ■  具体的な業務
 
-# Header 1
-## Header 2
-### Header 3
+      共同研究、または社内プロジェクトの研究・開発業務
+      自社サービス(脚本の解析システム)の開発業務
 
-- Bulleted
-- List
+    - 応募資格（必須）
+   
+      ■ 機械学習/自然言語処理の基礎知識
+      
+       機械学習・自然言語処理に関する論文を読み、内容を理解・実装できる
+       問題を分析しを解決するための仮説検証を行える
 
-1. Numbered
-2. List
+    - 勤務地
 
-**Bold** and _Italic_ and `Code` text
+      フルリモート
 
-[Link](url) and ![Image](src)
-```
+    - 賃金
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+      時給2,000円〜　
+      ※経験・能力によって変動することがあります、
 
-### Jekyll Themes
+  - 因果推論
+    - 職務内容
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pro-Place/recruit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+      ■ ミッション
 
-### Support or Contact
+      Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      ■  具体的な業務
+
+      共同研究、または社内プロジェクトの研究・開発業務
+      自社サービス(プロダクトプレースメントの効果推定システム)の開発業務
+      
+    - 勤務地
+
+      フルリモート
+
+    - 賃金
+
+      時給2,000円〜　
+      ※経験・能力によって変動することがあります、
+      
+## Process
+
+| 選考プロセス     | 詳細                                                                                                                                         |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| カジュアル面談   | 応募を迷っている方、応募前にProPlaceについて詳しく知りたい方向けに、簡単な会社概要などの説明やキャリアの志向性などについて双方で確認します。 |
+| 書類選考         | 書類選考の上、5営業日以内にご連絡いたします。                                                                                                |
+| 面接             | 各領域の担当者と1,2回面接を行い、カルチャーやスキルのフィットを確認します。                                                                  |
+| トライアルワーク | 2週間~1か月程度、実際の業務を行っていただきます。稼働時間は週末や平日の18時以降でも可能です。                                                |
+| 内定             |                                                                                                                                              |
+
+## CONTACT
+上記に関しましてのご質問・お仕事のご依頼や採用に関しましてお気軽にご相談ください。
+
+[^1]: 広告手法の一つ。映画やテレビドラマの劇中において、役者の小道具として、または背景として実在する企業名・商品名（商標）を表示させる手法。
