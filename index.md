@@ -69,7 +69,7 @@ Pro Place は、研究開発に重視しています。
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">応募資格（必須）</span></td>
-    <td class="tg-0pky">機械学習/因果推論の基礎知識 機械学習・因果推論に関する論文を読み、内容を理解・実装できる <br>問題を分析しを解決するための仮説検証を行える</td>
+    <td class="tg-0pky">機械学習/因果推論の基礎知識 <br> 機械学習・因果推論に関する論文を読み、内容を理解・実装できる <br>問題を分析しを解決するための仮説検証を行える</td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">勤務地</span></td>
