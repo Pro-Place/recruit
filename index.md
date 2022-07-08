@@ -45,6 +45,8 @@ Pro Place は、研究開発に重視しています。
 </tbody>
 </table>
 
+<br>
+
 - 機械学習エンジニア (因果推論 / アシスタント)
 
 <style type="text/css">
