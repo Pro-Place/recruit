@@ -84,13 +84,44 @@ Pro Place は、研究開発に重視しています。
       
 ## Process
 
-| 選考プロセス     | 詳細                                                                                                                                         |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| カジュアル面談   | 応募を迷っている方、応募前にProPlaceについて詳しく知りたい方向けに、簡単な会社概要などの説明やキャリアの志向性などについて双方で確認します。 |
-| 書類選考         | 書類選考の上、5営業日以内にご連絡いたします。                                                                                                |
-| 面接             | 各領域の担当者と1,2回面接を行い、カルチャーやスキルのフィットを確認します。                                                                  |
-| トライアルワーク | 2週間~1か月程度、実際の業務を行っていただきます。稼働時間は週末や平日の18時以降でも可能です。                                                |
-| 内定             |                                                                                                                                              |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">選考プロセス</span></th>
+    <th class="tg-0pky"><span style="font-weight:700;font-style:normal">詳細</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">カジュアル面談</span></td>
+    <td class="tg-0pky">応募を迷っている方、応募前にProPlaceについて詳しく知りたい方向けに、<br>簡単な会社概要などの説明やキャリアの志向性などについて双方で確認します。</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">書類選考</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">書類選考の上、5営業日以内にご連絡いたします。</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">面接</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">各領域の担当者と1,2回面接を行い、カルチャーやスキルのフィットを確認します。</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">トライアルワーク</span></td>
+    <td class="tg-0pky">2週間~1か月程度、実際の業務を行っていただきます。<br>稼働時間は週末や平日の18時以降でも可能です。<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">内定</span></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 ## CONTACT
 上記に関しましてのご質問・お仕事のご依頼や採用に関しましてお気軽にご相談ください。
