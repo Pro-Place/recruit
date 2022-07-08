@@ -10,21 +10,77 @@ Pro Place は、研究開発に重視しています。
 ## Positions
 - 機械学習エンジニア (自然言語処理 / アシスタント)
 
-| ミッション       | Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます。                                                |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 具体的な業務     | 共同研究、または社内プロジェクトの研究・開発業務 自社サービス(脚本の解析システム)の開発業務                                                   |
-| 応募資格（必須） | 機械学習/自然言語処理の基礎知識 機械学習・自然言語処理に関する論文を読み、内容を理解・実装できる 問題を分析しを解決するための仮説検証を行える |
-| 勤務地           | フルリモート                                                                                                                                  |
-| 賃金             | 時給2,000円〜※経験・能力によって変動することがあります、SO などの選択肢も含め要相談                                                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:400;font-style:normal">ミッション</span></th>
+    <th class="tg-0pky"><span style="font-weight:400;font-style:normal">Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">具体的な業務</span></td>
+    <td class="tg-0pky">共同研究、または社内プロジェクトの研究・開発業務 <br>自社サービス(脚本の解析システム)の開発業務</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">応募資格（必須）</span></td>
+    <td class="tg-0pky">機械学習/自然言語処理の基礎知識 <br>機械学習・自然言語処理に関する論文を読み、内容を理解・実装できる <br>問題を分析しを解決するための仮説検証を行える</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">勤務地</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">フルリモート</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">賃金</td>
+    <td class="tg-0pky">時給2,000円〜<br>※経験・能力によって変動することがあります、SO などの選択肢も含め要相談</td>
+  </tr>
+</tbody>
+</table>
 
 - 機械学習エンジニア (因果推論 / アシスタント)
 
-| ミッション       | Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます。                                        |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| 具体的な業務     | 共同研究、または社内プロジェクトの研究・開発業務 自社サービス(プロダクトプレースメントの効果推定システム)の開発業務                   |
-| 応募資格（必須） | 機械学習/因果推論の基礎知識 機械学習・因果推論に関する論文を読み、内容を理解・実装できる 問題を分析しを解決するための仮説検証を行える |
-| 勤務地           | フルリモート                                                                                                                          |
-| 賃金             | 時給2,000円〜※経験・能力によって変動することがあります、SO などの選択肢も含め要相談                                                   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:400;font-style:normal">ミッション</span></th>
+    <th class="tg-0pky"><span style="font-weight:400;font-style:normal">Pro Place が手掛ける共同研究プロジェクトやAIサービスの開発プロジェクトに携わっていただきます</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">具体的な業務</span></td>
+    <td class="tg-0pky">共同研究、または社内プロジェクトの研究・開発業務 <br>自社サービス(プロダクトプレースメントの効果推定システム)の開発業務</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">応募資格（必須）</span></td>
+    <td class="tg-0pky">機械学習/因果推論の基礎知識 機械学習・因果推論に関する論文を読み、内容を理解・実装できる <br>問題を分析しを解決するための仮説検証を行える</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">勤務地</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">フルリモート</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">賃金</td>
+    <td class="tg-0pky">時給2,000円〜<br>※経験・能力によって変動することがあります、SO などの選択肢も含め要相談</td>
+  </tr>
+</tbody>
+</table>
       
 ## Process
 
