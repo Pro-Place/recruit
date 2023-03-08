@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Open Positions
+description: RECRUIT / 採用情報
+
+github:
+  is_project_page: false
+
+include:
+  - _pages
